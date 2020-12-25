@@ -1,4 +1,4 @@
-![Hey, I'm Musa — I grow apples in my backyard](https://raw.githubusercontent.com/ephread/ephread/main/media/hey-fred.svg)
+![Hey, I'm Musa — I grow apples in my backyard]()
 
 I'm iOS Software Engineer.
 
