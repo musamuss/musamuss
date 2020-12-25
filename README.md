@@ -1,5 +1,4 @@
-![Hey, I'm Musa — I grow apples in my backyard]()
-
+Hey, I'm Musa 
 I'm iOS Software Engineer.
 
 
