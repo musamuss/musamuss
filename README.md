@@ -1,16 +1,13 @@
-### Hi there 👋
+![Hey, I'm Musa — I grow apples in my backyard](https://raw.githubusercontent.com/ephread/ephread/main/media/hey-fred.svg)
 
-<!--
-**musamuss/musamuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm iOS Software Engineer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=musamuss&show_icons=true&title_color=009A9C&icon_color=C4C5C7&count_private=true&hide_title=true" alt="Github Stats"/>
+</p>
+
