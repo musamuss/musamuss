@@ -5,7 +5,7 @@ I'm iOS Software Engineer.
 ### About me
 
 <div align="center">
-   <a href="https://www.linkedin.com/in/musa-deniev/" title="Linkedin"><img src="https://img.shields.io/badge/-Igor_Silaev-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin" /></a>
+   <a href="https://www.linkedin.com/in/musa-deniev/" title="Linkedin"><img src="https://img.shields.io/badge/-Musa_Deniev-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin" /></a>
 </div>
 
 <p align="center">
