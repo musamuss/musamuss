@@ -11,6 +11,9 @@ I'm Software Engineer.
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
+
+<span><img src="https://img.shields.io/badge/Swift-282C34?logo=swift&logoColor=F05138" alt="Apple logo" title="Swift" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Dart-282C34?logo=dart&logoColor=00C5F8" alt="Flutter logo" title="Dart" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=00C5F8" alt="Flutter logo" title="Flutter" height="25" /></span>
