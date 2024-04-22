@@ -1,5 +1,5 @@
 Hey, I'm Musa 
-I'm iOS Software Engineer.
+I'm Software Engineer.
 
 
 ### About me
